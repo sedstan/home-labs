@@ -8,4 +8,5 @@ Each lab is structured to reflect real-world tickets or tasks, with a focus on c
 
 ## 🧰 Lab Categories
 
-- [📱 Mobile Troubleshooting](./mobile-troubleshooting/)
+- [📱 Mobile Troubleshooting](./mobile-troubleshooting/) - Tablets and mobile devices
+- [🌐 Networking Labs](./networking-labs/) – DHCP, pfSense, network maps, diagnostics
