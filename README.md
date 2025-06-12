@@ -1,8 +1,11 @@
-# Home Lab Exercises
-Practice scenarios to simulate on the job in IT Support.
+# 🧪 Home Labs – IT Support, Systems, and Security
 
-## Network Hardening
-After chaning internet providers I logged into the admin interface of the router and changed the SSID, network password and setup a guest network.
+Welcome to my personal IT home lab documentation. This repo logs real-world projects, troubleshooting scenarios, and skills I'm building toward a career in IT support and cybersecurity.
 
-## Change an iPhone battery
-WIP - Changing an iPhone 8 battery
+Each lab is structured to reflect real-world tickets or tasks, with a focus on clarity, relevance, and applied knowledge — aligning with the expectations of technical roles in support, administration, and security.
+
+---
+
+## 🧰 Lab Categories
+
+- [📱 Mobile Troubleshooting](./mobile-troubleshooting/)
