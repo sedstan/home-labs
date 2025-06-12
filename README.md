@@ -8,5 +8,13 @@ Each lab is structured to reflect real-world tickets or tasks, with a focus on c
 
 ## 🧰 Lab Categories
 
-- [📱 Mobile Troubleshooting](./mobile-troubleshooting/) - Tablets and mobile devices
-- [🌐 Networking Labs](./networking-labs/) – DHCP, pfSense, network maps, diagnostics
+- [📱 Mobile Troubleshooting](./mobile-troubleshooting/) - Resetting and restoring tablets and smartphones using recovery tools.
+- [🌐 Networking Labs](./networking-labs/) – Home network mapping, DNS/DHCP setup, and basic router/firewall configs
+
+## 📝 About the Labs
+
+- Each lab is documented in its own Markdown file.
+- Writeups follow a consistent format: **Overview → Scenario → Procedure → Outcome → Lessons Learned**.
+- All content is written to mirror real-world support tasks or helpdesk scenarios.
+
+---
