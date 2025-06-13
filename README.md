@@ -2,7 +2,7 @@
 
 Welcome to my personal IT home lab documentation. This repo logs real-world projects, troubleshooting scenarios, and skills I'm building toward a career in IT support and cybersecurity.
 
-Each lab is structured to reflect real-world tickets or tasks, with a focus on clarity, relevance, and applied knowledge — aligning with the expectations of technical roles in support, administration, and security.
+Each lab is structured to reflect real-world tickets or tasks, with a focus on clarity, relevance, and applied knowledge — aligning with the expectations of technical roles in support and security.
 
 ---
 
@@ -18,3 +18,23 @@ Each lab is structured to reflect real-world tickets or tasks, with a focus on c
 - All content is written to mirror real-world support tasks or helpdesk scenarios.
 
 ---
+
+## 📈 Why This Matters
+
+These labs:
+
+- Reinforce hands-on concepts from certifications like CompTIA A+, Network+, Security+, MD-102, MS-102
+- Simulate job tasks relevant to IT support and cybersecurity roles
+- Showcase my problem-solving process, adaptability, and technical documentation
+
+---
+
+## 📝 Template Reference
+
+All labs follow a consistent structure for clarity. See [`lab-template.md`](./lab-template.md) for how to document future entries.
+
+---
+
+## 📜 License
+
+Content is shared under the MIT License unless otherwise specified.
