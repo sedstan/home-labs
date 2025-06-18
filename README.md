@@ -9,7 +9,7 @@ Each lab is structured to reflect real-world tickets or tasks, with a focus on c
 ## 🧰 Lab Categories
 
 - [📱 Mobile Troubleshooting](./mobile-troubleshooting/) - Resetting and restoring tablets and smartphones using recovery tools.
-- [🌐 Networking Labs](./networking-labs/) – Home network mapping, DNS/DHCP setup, and basic router/firewall configs
+- [🌐 Networking Labs](./networking/) – Home network mapping, DNS/DHCP setup, and basic router/firewall configs
 
 ## 📝 About the Labs
 
