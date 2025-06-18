@@ -11,7 +11,7 @@
 
 ## 🎯 Scenario
 
-> *Customer has forgotten their PIN and cannot access their Kindle Fire 8 (7th Gen). They request a full factory reset so they can reconfigure the device from scratch.*
+> *Customer has forgotten their PIN and cannot access their Kindle Fire 8 (7th Gen). They request a full factory reset to sell.*
 
 ---
 

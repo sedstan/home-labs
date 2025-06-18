@@ -1,32 +1,29 @@
-# 🧪 [Project Title] – [Device/Tool/Platform Name]
+# 🧪 Linksys Velop (Community Fibre supplied hardware) – Securing Home Network
 
 ## 🧩 Overview
 
-- **Device/Platform/Tool:** [e.g., Dell OptiPlex 7010 / pfSense / Windows 11 / macOS Monterey]
-- **Category:** [e.g., PC Repair, Mobile Troubleshooting, Networking, Security]
-- **OS/Version:** [If applicable, e.g., Fire OS 5.6.4.0 / Windows 10 Pro]
-- **Support Context:** [Short sentence explaining how this is relevant to IT Support or Cybersecurity]
+- **Device/Platform/Tool:** Linksys Velop
+- **Category:** Network
+- **OS/Version:** N/A
+- **Support Context:** IT Technicians mmay be asked to configure a home network.
 
 ---
 
 ## 🎯 Scenario
 
-> *Brief description of a real-world problem or request that led to this lab.*
-
-Example:
-> *User forgot the PIN to their Fire tablet. Requested a factory reset so it could be gifted.*
+> *Customer signed up with a new internet provider and wants to secure their home network.*
 
 ---
 
 ## 🛠️ Procedure
 
-### Method: [Standard / Hard Reset / Script / Configuration / etc.]
+### Method: Configuration
 
 1. **Step-by-step actions**, e.g.:
-   - Power off the device
-   - Enter recovery mode by holding Power + Volume Down
-   - Navigate to “Wipe data/factory reset”
-   - Confirm and reboot
+   - Customer opened a web browser and logged in to `192.168.1.1` - the admin portal for the WiFi network.
+   - The customer was prompted to download the Liksys app to manage their connections
+   - Changed the SSID and the password.
+   - Setup a secondary SSID and password to be used as a guest account.
 
 Include commands, screenshots, or diagrams where helpful.
 
