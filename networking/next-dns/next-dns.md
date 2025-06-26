@@ -1,32 +1,28 @@
-# 🧪 [Project Title] – [Device/Tool/Platform Name]
+# 🧪 NextDNS – Setup DNS filtering
 
 ## 🧩 Overview
 
-- **Device/Platform/Tool:** [e.g., Dell OptiPlex 7010 / pfSense / Windows 11 / macOS Monterey]
-- **Category:** [e.g., PC Repair, Mobile Troubleshooting, Networking, Security]
-- **OS/Version:** [If applicable, e.g., Fire OS 5.6.4.0 / Windows 10 Pro]
-- **Support Context:** [Short sentence explaining how this is relevant to IT Support or Cybersecurity]
+- **Device/Platform/Tool:** NextDNS
+- **Category:** Networking
+- **OS/Version:** macOS, iPad OS
+- **Support Context:** An IT technician maybe asked to integrate similar software into a home system.
 
 ---
 
 ## 🎯 Scenario
 
-> *Brief description of a real-world problem or request that led to this lab.*
-
-Example:
-> *User forgot the PIN to their Fire tablet. Requested a factory reset so it could be gifted.*
+> The customer wanted to keep his family safe while online. NextDNS came highly recommended.
 
 ---
 
 ## 🛠️ Procedure
 
-### Method: [Standard / Hard Reset / Script / Configuration / etc.]
+### Method: Configuration
 
-1. **Step-by-step actions**, e.g.:
-   - Power off the device
-   - Enter recovery mode by holding Power + Volume Down
-   - Navigate to “Wipe data/factory reset”
-   - Confirm and reboot
+ **Step-by-step actions**:
+
+- The customer navigated to `https://nextdns.io`.
+- Setup the 
 
 Include commands, screenshots, or diagrams where helpful.
 

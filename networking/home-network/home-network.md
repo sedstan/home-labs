@@ -19,7 +19,7 @@
 
 ### Method: Configuration
 
-1. **Step-by-step actions**, e.g.:
+1. **Step-by-step actions**
    - Customer opened a web browser and logged in to `192.168.1.1` - the admin portal for the WiFi network.
   ![website screenshot](./Linksys-App_192.168.1.1.png)
    - The customer was prompted to download the Linksys app to manage their connections
