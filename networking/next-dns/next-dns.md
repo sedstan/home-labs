@@ -37,7 +37,7 @@
 
 - **Result:** All profiles and devices were connected.
 - **Post-task behaviour:** Filtered unwanted content.
-- **Time taken:** 5 mins per device. 
+- **Time taken:** 5 mins per device.
 
 ---
 
