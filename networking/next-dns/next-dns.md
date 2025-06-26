@@ -25,12 +25,13 @@
 - They setup a free account.
 - The Free tier has a limit of 30,000 queries/month.
 - The customer wasn't satisfied with that. They signed up for the Pro tier.
- ![pricing screenshot](./nextDNS-pricing.png)
- --
 - Once signed up the customer setup multiple devices using the Setup Guide on the Setup tab
- ![setup guide](./nextDNS-setup-blacked-out.png)
 
-Include commands, screenshots, or diagrams where helpful.
+  ![setup guide](./nextDNS-setup-blacked-out.png)
+
+  ![configured](./nextDNS-configured-overview-blacked-out.png)
+
+- Once you have a default profile you can proceed to use the built in filters.
 
 ---
 
